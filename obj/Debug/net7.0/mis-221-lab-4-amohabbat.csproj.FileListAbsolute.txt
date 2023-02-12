@@ -1,0 +1,15 @@
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/bin/Debug/net7.0/mis-221-lab-4-amohabbat
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/bin/Debug/net7.0/mis-221-lab-4-amohabbat.deps.json
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/bin/Debug/net7.0/mis-221-lab-4-amohabbat.runtimeconfig.json
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/bin/Debug/net7.0/mis-221-lab-4-amohabbat.dll
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/bin/Debug/net7.0/mis-221-lab-4-amohabbat.pdb
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.csproj.AssemblyReference.cache
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.AssemblyInfoInputs.cache
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.AssemblyInfo.cs
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.csproj.CoreCompileInputs.cache
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.dll
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/refint/mis-221-lab-4-amohabbat.dll
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.pdb
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/mis-221-lab-4-amohabbat.genruntimeconfig.cache
+/Users/amberrr111/Desktop/Mis 221/Labs/mis-221-lab-4-amohabbat/obj/Debug/net7.0/ref/mis-221-lab-4-amohabbat.dll
